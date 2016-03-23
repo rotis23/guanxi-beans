@@ -1,3 +1,6 @@
 *.iml
 target
 src
+*.classpath
+*.prefs
+.project
